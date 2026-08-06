@@ -4,6 +4,6 @@
 
 [[https://jmeubank.github.io/tdm-gcc/][TDMGCC for C compilation]] - If using windows install the TDM-GCC compiler
 
-[[ https://github.com/OpenEuphoria/editors/tree/master/emacs][Euphoria Emacs]] - Euphoria in EMACS
+[[https://github.com/OpenEuphoria/editors/tree/master/emacs][Euphoria Emacs]] - Euphoria in EMACS
 
 I'm trying to find a intuitive, easy to read, and fun programming language. Kind of like a BASIC for the modern era that's not Python. Euphoria seems like a good candidate, although the ecosystem and community is small. 
